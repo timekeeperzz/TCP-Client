@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+# TCP Client App
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+In the company where I did my internship, data was collected from different protocols within the scope of the Manufacturing Execution System project. One of the protocols was TCP.
+The inequality between driver(server) and printer(client) numbers pushed us to this solution.
+You can see the codes I wrote in C# and Python below
